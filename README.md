@@ -23,6 +23,8 @@ O desafio foi construir uma página web do zero utilizando a prototipação disp
 <a href="https://www.figma.com/file/a3beQW5fGnTDgDdu0TprnA/%5BDesafios-Explorer%5D-SPA-Universe-(Copy)?node-id=0%3A1" target="_blank">Figma</a>,
 para fortalecer meus conhecimentos em HTML, CSS, JavaScript e Node aplicando conceitos Single Page Aplication que foram vistos anteriormente no stage 6 do Explorer.
 
+<br/>
+
 ![image](https://user-images.githubusercontent.com/43592358/182031459-1b9f6145-057e-44e9-a0ba-76e849028190.png)
 
 <br/>
